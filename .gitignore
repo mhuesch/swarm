@@ -19,3 +19,8 @@ stan.html
 docs/ott/*.tex
 
 .dir-locals.el
+
+# nix
+.direnv/
+result
+result-bin
